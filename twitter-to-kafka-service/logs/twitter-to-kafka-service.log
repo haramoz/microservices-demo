@@ -1,0 +1,9 @@
+2022-11-24 04:51:44 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on arkid-pc with PID 2949 (/home/haramoz/microservices-demo/twitter-to-kafka-service/target/classes started by haramoz in /home/haramoz/microservices-demo)
+2022-11-24 04:51:44 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-11-24 04:51:44 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.598 seconds (JVM running for 1.01)
+2022-11-24 04:51:44 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2022-11-24 04:51:44 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2022-11-24 04:51:44 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2022-11-24 04:51:44 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Kafka, Elasticsearch]
+2022-11-24 04:51:44 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text libero congue malesuada purus Kafka congue consectetuer ipsum
+2022-11-24 04:51:54 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text posuere amet sit congue Fusce Fusce Lorem malesuada Java adipiscing libero libero Lorem amet porttitor
