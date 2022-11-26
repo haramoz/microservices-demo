@@ -3,8 +3,15 @@
 .settings/
 target/
 
+### kafka
+.lst
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+*.jar
+*.war
+*.ear
+*.logs
